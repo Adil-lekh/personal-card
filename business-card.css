@@ -1,0 +1,21 @@
+body{
+    font-family:serif;
+}
+
+.img{
+    width: 150px;
+    height: 170px;
+
+}
+.card{
+    justify-content: space-around;
+    padding: 20px;
+    display: flex;
+    font-style: italic;
+    width: 400px;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    background-color: #ddebf8;
+    border-bottom: 2mm solid #0155a3;
+}
